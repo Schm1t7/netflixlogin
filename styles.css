@@ -1,0 +1,26 @@
+#mainspace1{ /* espaço para login e criar conta */
+    height: 500px;
+    width: 1400px;
+    background-color: black;
+    display: flex; /* Torna o contêiner flexível */
+    justify-content: center; /* Alinha os itens horizontalmente ao centro */
+}
+.tittle1{ /* titulo que aparece no mainspace1 */
+    text-align: center; /* Alinha o texto horizontalmente ao centro */
+}
+.info{
+    display: flex; /* Torna o contêiner flexível */
+    align-items: center; /* Alinha os itens verticalmente ao centro */
+}
+#login{
+    height: 500px;
+    width: 600px;
+    background-color: rgb(209, 209, 209);
+    justify-content: center; /* Alinha os itens horizontalmente ao centro */
+}
+#newaccount{
+    height: 500px;
+    width: 800px;
+    background-color: rgb(246, 246, 246);
+    justify-content: crgb(219, 219, 219) /*a os itens horizontalmente ao centro */
+}
